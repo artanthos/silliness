@@ -10,6 +10,6 @@ var randomNumber = 10;
 		output(arg);
 	} 	
 	
-	// what do you think the answer is?
+	// why do you think the answer is?
   
 })(randomNumber);
