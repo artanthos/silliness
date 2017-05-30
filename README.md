@@ -7,15 +7,16 @@ var randomNumber = 10;
 
 (function output(arg){
 	
-	arg--;
+   arg--;
 	
-	if(arg>1){
-		output(arg);
-	} 	
+   if(arg>1){
+      output(arg);
+   } 	
 
-	console.log(arg);
+   console.log(arg);
   
 })(randomNumber);
 ```
 
-Check out the silliness.js
+Been playing with examples to explain to a friend what recursion is and generated yet another concept for him to wrap his head around with.
+Check out silliness.js for the answer.
