@@ -13,7 +13,7 @@ var randomNumber = 10;
 		output(arg);
 	} 	
 
-  console.log(arg);
+	console.log(arg);
   
 })(randomNumber);
 ```
