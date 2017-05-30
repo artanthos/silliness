@@ -18,6 +18,6 @@ var randomNumber = 10;
 })(randomNumber);
 ```
 
-Been playing with examples to explain to a friend what recursion is and generated yet another concept for him to wrap his head around with.
+Been playing with examples to explain recursion to a friend and generated yet another concept for him.
 
 Check out silliness.js for the answer.
